@@ -1,14 +1,14 @@
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
+  TOKEN: "MTIyNTUyOTkzMDI2NDM1MDc5Mg.G45tIZ.2rmhpMbzXaVVp-dbyKF8NULfV6Z9_jQqKgkn2Q",
+  ownerID: ["847114060776210432", ""],
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1225529930264350792",
+  supportServer: "https://discord.gg/CypPZaU7S9",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: '!help | MusicBot',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
-  errorLog: "",
+  errorLog: "1225531289860571289",
 
 
   sponsor: {
